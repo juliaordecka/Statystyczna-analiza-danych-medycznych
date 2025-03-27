@@ -1,1 +1,1 @@
-# Statystyczna-analiza-danych-medycznych
+# Statystyczna analiza danych medycznych
